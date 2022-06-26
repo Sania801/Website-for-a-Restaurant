@@ -1,0 +1,119 @@
+.contain{
+        width:100%;
+        height:150vh;
+        background-image: url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95d09002a.png");
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        overflow: hidden;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.8rem;
+    color:rgb(166, 104, 137);
+    padding:10px 19px;
+    justify-content: center;
+    padding-top:1.6rem;
+    
+}
+#box1{
+    border: 2px solid rgb(109, 81, 90);
+    border-radius: 23px;
+}
+#box2{
+    border: 2px solid rgb(109, 81, 90);
+    border-radius: 23px;
+}
+#box3{
+    border: 2px solid rgb(109, 81, 90);
+    border-radius: 23px;
+}
+#box4{
+    border: 2px solid rgb(109, 81, 90);
+    border-radius: 23px;
+}
+#box5{
+    border: 2px solid rgb(109, 81, 90);
+    border-radius: 23px;
+}
+#box1 a{
+    color:rgb(109, 81, 90);
+    text-decoration: none;
+}
+#box2 a{
+    color:rgb(109, 81, 90);
+    text-decoration: none;
+}
+#box3 a{
+    color:rgb(109, 81, 90);
+    text-decoration: none;
+}
+#box4 a{
+    color:rgb(109, 81, 90);
+    text-decoration: none;
+}
+#box5 a{
+    color:rgb(109, 81, 90);
+    text-decoration: none;
+}
+
+.boxy{
+    height: 100vh;
+    width:200vh;
+    display: flex;
+    flex-direction: row;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.8rem;
+    color:rgb(166, 104, 137);
+    padding:10px 19px;
+    justify-content: center;
+    padding-top:3rem;
+}
+#boxy1{
+    height: 50vh;
+    width: 82vh;
+    border: 2px solid rgb(109, 81, 90);
+    border-radius: 23px;
+    padding-left: 13rem;
+    font-size: 2.6rem;
+    justify-content: left;
+    
+}
+
+
+#boxy2{
+    height: 50vh;
+    width: 82vh;
+    border: 2px solid rgb(109, 81, 90);
+    border-radius: 23px;
+    font-size: 2.6rem;
+    padding-left: 13rem;
+}
+
+#boxy3{
+    height: 50vh;
+    width: 82vh;
+    border: 2px solid rgb(109, 81, 90);
+    border-radius: 23px;
+    font-size: 2.6rem;
+    padding-left: 13rem;
+}
+#boxy1 img{
+    height: 9rem;
+    width:9rem;
+    padding-top: 4rem;
+}
+#boxy2 img{
+    height: 9rem;
+    width:9rem;
+    padding-top: 4rem;
+}
+.meh{
+    color:rgb(140, 75, 122);
+    font-size: 2rem;
+    padding-left:78vh;
+    font-family:'Dancing Script', cursive;
+}
+

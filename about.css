@@ -1,0 +1,111 @@
+.containing
+{
+    width:100%;
+    height:150vh;
+    background-image: url("https://wallup.net/wp-content/uploads/2018/09/25/633634-eggs-food-dishes-black_background-748x488.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.8rem;
+    color: aliceblue;
+    padding:10px 19px;
+    justify-content: center;
+    padding-top:1.6rem;
+    
+
+}
+#box1{
+    border: 2px solid grey;
+    border-radius: 23px;
+}
+#box2{
+    border: 2px solid grey;
+    border-radius: 23px;
+}
+#box3{
+    border: 2px solid grey;
+    border-radius: 23px;
+}
+#box4{
+    border: 2px solid grey;
+    border-radius: 23px;
+}
+#box5{
+    border: 2px solid grey;
+    border-radius: 23px;
+}
+#box1 a{
+    color: rgb(218, 195, 168);
+    text-decoration: none;
+}
+#box2 a{
+    color: rgb(218, 195, 168);
+    text-decoration: none;
+}
+#box3 a{
+    color: rgb(218, 195, 168);
+    text-decoration: none;
+}
+#box4 a{
+    color: rgb(218, 195, 168);
+    text-decoration: none;
+}
+#box5 a{
+    color: rgb(218, 195, 168);
+    text-decoration: none;
+}
+#box1:hover{
+    background-color:grey;
+}
+#box2:hover{
+    background-color:grey;
+}
+#box3:hover{
+    background-color:grey;
+}
+#box4:hover{
+    background-color:grey;
+}
+#box5:hover{
+    background-color:grey;
+}
+.map img{
+    width:59vh;
+    height:60vh;
+    border: 5px solid;
+    border-radius: 6rem;
+   /* padding-top: 3rem;*/
+    padding-left: 2.2rem;
+
+}
+/*.image{
+    padding-left: 24rem;
+    font-size: 2rem;
+   /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;*/
+.para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    font-size: 2rem;
+    padding-top: 0px;
+}
+.map{
+    padding-left: 15rem;
+    padding-top: 2.3rem;
+    display: flex;
+    flex-direction: row;
+}
+.map iframe{
+    height: 70vh;
+    /*border-radius: 3rem;*/
+    padding-left: 20rem;
+}
+
+
+

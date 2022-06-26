@@ -1,0 +1,159 @@
+.container{
+    width:100%;
+    height:100vh;
+    background-image: url("https://badgut.org/wp-content/uploads/Image-Content-IBS-the-foods-you-can-eat.png");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+
+}
+.logo{
+    width:160px;
+    height:195px;
+    padding-top:50px;
+    padding-left: 10px;
+}
+.navbar{
+    width:90%;
+    height:10%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    font:black;
+    padding-top: 50px;
+}
+button{
+    color:rgb(37, 37, 37);
+    font-family:monospace;
+    font-size: 1.5rem;
+    padding:15px 20px;
+    background: transparent;
+    border:5px rgb(75, 101, 36) solid;
+    border-radius: 17px;
+}
+.content{
+    padding-top: 60px;
+    font-size: 1.8rem;
+    align-items:right;
+   justify-content: right;
+}
+h1{
+    align-items: right;
+    justify-content: right;
+}
+.right-side{
+    height: 100vh;
+    width:10px;
+    background: linear-gradient();
+    position: absolute;
+    right: 0;
+    top:0;
+    padding-right: 7rem;
+}
+menu{
+    display: block;
+    
+
+    margin: 40px auto 0;
+    cursor: pointer;
+
+}
+.right-side img{
+    height:5rem;
+    width:5rem;
+    padding-left: 3rem; 
+}
+.bubble img{
+    width:7.3rem;
+    height: 6.3rem;
+    animation:bubbles 7s linear infinite;
+}
+.bubble{
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    bottom:0;
+    /*animation-name: bubbles;
+    animation-duration:40s ;
+    animation-iteration-count:infinite ;
+    animation-timing-function: ease-in;*/
+}
+@keyframes bubbles{
+  0%{
+      
+        transform:translateY(100vh);
+        opacity:0;
+  }
+  50%{
+    transform:translateY(-100vh); 
+    opacity:1;
+}
+70%{
+
+    transform:translateY(-100vh); 
+    opacity:1; 
+}
+100%{
+    transform:translateY(-100vh) 
+    opacity:1;
+}
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.8rem;
+    color:black;
+    padding:10px 19px;
+    justify-content: center;
+    padding-top:1.6rem;
+    
+}
+#box1{
+    border: 2px solid black;
+    border-radius: 23px;
+}
+#box1 a{
+    color:black;
+    text-decoration: none;
+}
+#box2{
+    border: 2px solid black;
+    border-radius: 23px;
+}
+#box2 a{
+    color:black;
+    text-decoration: none;
+}
+#box3{
+    border: 2px solid black;
+    border-radius: 23px;
+}
+#box3 a{
+    color:black;
+    text-decoration: none;
+}
+#box4{
+    border: 2px solid black;
+    border-radius: 23px;
+}
+#box4 a{
+    color:black;
+    text-decoration: none;
+}
+#box5{
+    border: 2px solid black;
+    border-radius: 23px;
+}
+#box5 a{
+    color:black;
+    text-decoration: none;
+}
+
+    
+
+

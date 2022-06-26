@@ -1,0 +1,145 @@
+.container{
+    background-image:url("https://wallpaperaccess.com/full/1151629.jpg");
+    background-size: cover;
+    width:100%;
+    height:100%;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+    opacity:3vh;
+    color: azure;
+    font-family: ;
+    font-size: 4vh;
+}
+.knapsack{
+    display: flex;
+    flex-direction:row;
+    font-family: "Spectral script=latin rev=1";
+    font-weight: 200;
+    font-style: italic;
+}
+#hold1 img{
+    height:40vh;
+    width:50vh;
+    padding-left: 60vh;
+
+}
+
+#hold2{
+    font-size:10vh;
+    font-family: 'proxima-nova', sans-serif;
+    color:azure;
+    font-family: "Spectral script=latin rev=1";
+    font-weight: 200;
+    font-style: italic;
+}
+.knapsack2{
+    font-size: 5vh;
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    font-family: "Spectral script=latin rev=1";
+    font-weight: 200;
+    font-style: italic;
+}
+#hold3{
+    padding-top: 10vh;
+}
+#hold4{
+    padding-left: 40vh;
+}
+#hold5{
+    padding-left: 40vh;
+    padding-top: 20vh;
+}
+#hold3 a{
+    color: azure;
+    text-decoration: none;
+}
+#hold4 a{
+    color: azure;
+    text-decoration: none;
+}
+#hold5 a{
+    color: azure;
+    text-decoration: none;
+}
+.third{
+    height:100vh;
+    width:80vh;
+}
+.third img{
+    height:40vh;
+    width:60vh;
+    padding-left: 80vh;
+    padding-bottom: 70vh;
+
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.8rem;
+    color: azure;
+    padding:10px 19px;
+    justify-content: center;
+    padding-top:1.6rem;
+    
+}
+#box1{
+    border: 2px solid azure;
+    border-radius: 23px;
+}
+#box1 a{
+    color: azure;
+    text-decoration: none;
+}
+#box2{
+    border: 2px solid azure;
+    border-radius: 23px;
+}
+#box2 a{
+    color: azure;
+    text-decoration: none;
+}
+#box3{
+    border: 2px solid azure;
+    border-radius: 23px;
+}
+#box3 a{
+    color: azure;
+    text-decoration: none;
+}
+#box4{
+    border: 2px solid azure;
+    border-radius: 23px;
+}
+#box4 a{
+    color: azure;
+    text-decoration: none;
+}
+#box5{
+    border: 2px solid azure;
+    border-radius: 23px;
+}
+#box5 a{
+    color: azure;
+    text-decoration: none;
+}
+
+
+
+
+/*.holder
+{
+    flex-direction:column;
+
+}
+/*.container a{
+    padding-left: 20vh;
+}
+.container img{
+    height:28h;
+    width:30vh;
+    padding-left:60vh;
+    /*transform: rotate(80deg);*/
